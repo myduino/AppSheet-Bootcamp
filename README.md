@@ -1,21 +1,6 @@
 # AppSheet Bootcamp
 
-The aims of this exercise is to designed and develop mobile app for **Equipment Inspections** using Google’s AppSheet platform.
-
-## Prerequisites
-Before starting, make sure you have the following:
-- A Google account
-- Basic knowledge of spreadsheets (e.g., Google Sheets or Excel)
-- Access to the AppSheet platform (free tier available)
-
-## Objectives
-By the end of this bootcamp, you will:
-
-- Understand the basics of AppSheet and how to create an app.
-- Learn how to design an app interface for efficient data entry and retrieval.
-- Create a database to store equipment inspection records.
-- Develop workflows and automation to notify users for failure equipments during inspections.
-- Deploy your app and make it accessible on mobile devices.
+The aims of this exercise is to build a mobile app for **Equipment Inspections** using no-code platform Google’s AppSheet.
 
 ## Project Structure
 
