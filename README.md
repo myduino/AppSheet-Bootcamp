@@ -32,7 +32,7 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 
 ## 01 Prepare Google Sheet
 
-1. Create a new folder named `**Equipment Inspections**` in your Google Drive.
+1. Create a new folder named **`Equipment Inspections`** in your Google Drive.
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-01.png" width="800"></a></p>
 
@@ -40,15 +40,15 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-02.png" width="800"></a></p>
 
-3. Rename the Google Sheet title to `**Equipment Inspections**`
+3. Rename the Google Sheet title to **`Equipment Inspections`**
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-03.png" width="800"></a></p>
 
-4. Rename the `**Sheet1**` to `**Equipments**` and add the following columns:
-- `**Equipment ID**` (Unique Identifier for each equipment)
-- `**Name**` (Name of the equipment)
-- `**Description**` (Brief description of the equipment)
-- `**Image**` (Link to an image of the equipment)
+4. Rename the **`Sheet1`** to **`Equipments`** and add the following columns:
+- **`Equipment ID`** (Unique Identifier for each equipment)
+- **`Name`** (Name of the equipment)
+- **`Description`** (Brief description of the equipment)
+- **`Image`** (Link to an image of the equipment)
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-04.png" width="800"></a></p>
 
