@@ -205,3 +205,93 @@ Good, the Inspections data is now available on the AppSheet.
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-49.png" width="800"></a></p>
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-50.png" width="800"></a></p>
+
+## 5. Enhanced User Experience
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-51.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-52.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-53.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-54.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-55.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-56.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-57.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-58.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-59.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-60.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-61.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-62.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-63.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-64.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-65.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-66.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-67.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-68.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-69.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-70.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/enhanced-user-experience/AppSheet-71.png" width="800"></p>
+
+## 6. Automate Email Notification
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-72.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-73.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-74.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-75.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-76.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-77.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-78.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-79.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-80.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-81.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-82.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-83.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/automate-email/AppSheet-84.png" width="800"></p>
+
+## 7. Email Notification with PDF Report Attachment
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/email-with-report-attachment/AppSheet-85.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/email-with-report-attachment/AppSheet-86.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/email-with-report-attachment/AppSheet-87.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/email-with-report-attachment/AppSheet-88.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/email-with-report-attachment/AppSheet-89.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/email-with-report-attachment/AppSheet-90.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/email-with-report-attachment/AppSheet-91.png" width="800"></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/email-with-report-attachment/AppSheet-92.png" width="800"></p>
