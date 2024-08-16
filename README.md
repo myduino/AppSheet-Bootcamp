@@ -113,19 +113,56 @@ Great, let's build the app!
 
 1. Click the **`Data`** icon on the left menu and click the **`Add new Data`** icon to add **Inspections** data sheet from the Google Sheet.
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-17.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-17.png" width="800"></a></p>
 
 2. Choose **`Google Sheets`** data source.
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-18.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-18.png" width="800"></a></p>
 
 3. Navigate and select the Google Sheet.
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-19.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-19.png" width="800"></a></p>
 
 4. Make sure the **`Inspections`** sheet is selected and click the **`Add 1 table`** button.
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-20.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-20.png" width="800"></a></p>
+
+Good, the Inspections data is now available on the AppSheet.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-21.png" width="800"></a></p>
+
+5. Go the **`Equipments`** data, change the **`Description`** type from LongText to **`Text`**.
+6. Click the **`Add virtual column`**, set up a reference column for Equipment ID to link it with the Equipments table.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-22.png" width="800"></a></p>
+
+7. Give name to the virtual column, **`Related Inspections`** and click on the **`App Formula`** field to add the reference function.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-23.png" width="800"></a></p>
+
+8. Copy this function **`REF_ROWS("Inspections", "Item ID")`** and paste it into the App Formula field.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-24.png" width="800"></a></p>
+
+9. Make sure the **Column data type** is **`List`**, **Element type** is **`Ref`** and **Reference table name** is **`Inspections`**.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-25.png" width="800"></a></p>
+
+10. Go to **`Inspections`** data and change the **`Equipment ID`** data type to **`Ref`**.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-26.png" width="800"></a></p>
+
+11. Click the **edit icon** on the **`Equipment ID`**, change the **Source table** to **`Equipments`** and click the **`Done`** button.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-27.png" width="800"></a></p>
+
+12. On the **`Equipment ID`** tick on the **LABEL?**
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-28.png" width="800"></a></p>
+
+13. On the **`Reason`** change the **TYPE** to **`LongText`**.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-29.png" width="800"></a></p>
 
 Create Relationships:
 
