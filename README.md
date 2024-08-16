@@ -7,7 +7,7 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 ## Project Structure
 
 1. **Data Preparation**
-- Create a Google Sheet with the necessary columns (e.g., Equipment ID, Inspection Date, Status, Reason, etc).
+- Create a [Google Sheet](https://workspace.google.com/products/sheets/) with the necessary columns (e.g., Equipment ID, Inspection Date, Status, Reason, etc).
 
 2. **App Creation**
 - Connect your Google Sheet to AppSheet.
@@ -20,4 +20,36 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 - Set up automated workflows to send email notifications for failed equipments during inspections.
 - Create reports summarizing inspection results over a specified period.
 
+## Step-by-Step Guide for AppSheet Bootcamp
 
+1. Prepare Google Sheet
+2. Create AppSheet
+3. Interfacing Data Google Sheet
+4. User Interface
+5. Enhanced User Experience
+6. Automate Email Notification
+7. Email Notification with PDF Report Attachment
+
+## 01 Prepare Google Sheet
+
+1. Create a New Folder in your Google Drive.
+<p align="center"><img src="https://platform.favoriot.com/tutorial/v2/images/architecture%20v2.png" width="500"></a></p>
+
+Create Google Sheets
+Open Google Sheets and create a new sheet titled "Equipment Inspections."
+Create the Equipments Sheet:
+
+Add the following columns:
+Equipment ID (Unique Identifier for each equipment)
+Name (Name of the equipment)
+Description (Brief description of the equipment)
+Image (Link to an image of the equipment)
+Create the Inspections Sheet:
+
+Add the following columns:
+Inspection ID (Unique Identifier for each inspection)
+Equipment ID (Reference to the Equipment ID from the Equipments sheet)
+Status (Inspection status, e.g., Passed, Failed)
+Reason (Reason for failure, if any)
+Date (Date of inspection)
+User Email (Email of the inspector)
