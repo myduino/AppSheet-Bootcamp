@@ -4,6 +4,8 @@ The aims of this exercise is to build a mobile app for **Equipment Inspections**
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=DjAD81A9nYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![Build no-code apps with AppSheet](https://www.youtube.com/watch?v=DjAD81A9nYk)](https://www.youtube.com/watch?v=DjAD81A9nYk)
+
 ## Project Structure
 
 1. Data Preparation
