@@ -1,6 +1,6 @@
 # AppSheet Bootcamp
 
-In this bootcamp, we will guide you through the process of creating a mobile app designed for **Equipment Inspections** using Google’s AppSheet platform. This app will help digitizing and streamline the inspection process, ensuring all equipment is checked and maintained regularly.
+The aims of this exercise is to designed and develop mobile app for **Equipment Inspections** using Google’s AppSheet platform.
 
 ## Prerequisites
 Before starting, make sure you have the following:
