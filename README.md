@@ -66,19 +66,19 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 
 1. Go to [AppSheet](https://appsheet.com) and click the **`Sign in`** link.
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-06.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-06.png" width="800"></a></p>
 
 2. Choose Google as your login platform.
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-07.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-07.png" width="800"></a></p>
 
 3. Sign in with your Google account.
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-08.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-08.png" width="800"></a></p>
 
 4. Click the **`Continue`** button to continue.
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-09.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-09.png" width="800"></a></p>
 
 Go to AppSheet and 
 Create a New App:
