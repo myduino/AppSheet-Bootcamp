@@ -200,7 +200,7 @@ Good, the Inspections data is now available on the AppSheet.
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-47.png" width="800"></a></p>
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-48.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-48.jpg" width="800"></a></p>
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-49.png" width="800"></a></p>
 
