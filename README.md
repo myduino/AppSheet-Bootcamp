@@ -22,15 +22,15 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 
 ## Step-by-Step Guide for AppSheet Bootcamp
 
-1. Prepare Google Sheet
-2. Create AppSheet
-3. Interfacing Data Google Sheet
-4. User Interface
-5. Enhanced User Experience
-6. Automate Email Notification
-7. Email Notification with PDF Report Attachment
+1. Prepare Google Sheet.
+2. Create AppSheet.
+3. Interfacing Data Google Sheet.
+4. User Interface.
+5. Enhanced User Experience.
+6. Automate Email Notification.
+7. Email Notification with PDF Report Attachment.
 
-## 01 Prepare Google Sheet
+## 1. Prepare Google Sheet (5 Steps)
 
 1. Create a new folder named **`Equipment Inspections`** in your Google Drive.
 
@@ -52,24 +52,12 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-04.png" width="800"></a></p>
 
+5. Create the **`Inspections`** Sheet and add the following columns:
+- **`Inspection ID`** (Unique Identifier for each inspection)
+- **`Equipment ID`** (Reference to the Equipment ID from the Equipments sheet)
+- **`Status`** (Inspection status, e.g., **Passed**, **Failed**)
+- **`Reason`** (Reason for failure, if any)
+- **`Date`** (Date of inspection)
+- **`User Email`** (Email of the inspector)
 
-
-
-Create Google Sheets
-Open Google Sheets and create a new sheet titled "Equipment Inspections."
-Create the Equipments Sheet:
-
-Add the following columns:
-Equipment ID (Unique Identifier for each equipment)
-Name (Name of the equipment)
-Description (Brief description of the equipment)
-Image (Link to an image of the equipment)
-Create the Inspections Sheet:
-
-Add the following columns:
-Inspection ID (Unique Identifier for each inspection)
-Equipment ID (Reference to the Equipment ID from the Equipments sheet)
-Status (Inspection status, e.g., Passed, Failed)
-Reason (Reason for failure, if any)
-Date (Date of inspection)
-User Email (Email of the inspector)
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-05.png" width="800"></a></p>
