@@ -105,8 +105,19 @@ You have successfully signed in to the AppSheet platform.
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-15.png" width="800"></a></p>
 
+Great, let's build the app!
+
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-16.png" width="800"></a></p>
 
+## 3. Interfacing Data Google Sheet.
 
-AppSheet will automatically detect the Equipments and Inspections sheets.
-Ensure both tables are correctly set up in the app’s Data section.
+Create Relationships:
+
+In the Inspections table, set up a reference column for Equipment ID to link it with the Equipments table.
+This allows you to access the equipment details within the inspections.
+Configure Form Views:
+
+Set up forms for adding new equipment and inspections, making sure the Equipment ID in inspections is a dropdown that references the Equipments table.
+Display Related Records:
+
+Configure views to display related inspections when viewing an equipment record, enabling users to see inspection history for each piece of equipment.
