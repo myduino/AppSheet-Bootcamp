@@ -68,7 +68,7 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-06.png" width="800"></a></p>
 
-2. Choose Google as your login platform.
+2. Choose **`Google`** as your login platform to AppSheet.
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-07.png" width="800"></a></p>
 
@@ -80,14 +80,22 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-09.png" width="800"></a></p>
 
-Go to AppSheet and 
-Create a New App:
+You have successfully signed in to the AppSheet platform.
 
-Click on “Create New App” and choose the "Start with your own data" option.
-Select the "Equipment Inspections" Google Sheet you prepared.
-Name Your App:
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-10.png" width="800"></a></p>
 
-Provide a name for your app (e.g., "Equipment Inspection App").
+5. Click on the **`Create`** button and choose the **`Start with existing data`** option.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-11.png" width="800"></a></p>
+
+6. Provide the name for the app, **`Equipment Inspection`**.
+7. Select the category **`Inspections & Surveys`**.
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-12.png" width="800"></a></p>
+
+
+
+
 Configure Data Sources:
 
 AppSheet will automatically detect the Equipments and Inspections sheets.
