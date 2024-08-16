@@ -105,7 +105,7 @@ You have successfully signed in to the AppSheet platform.
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-15.png" width="800"></a></p>
 
-<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-15.png" width="800"></a></p>
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/create-appsheet/AppSheet-16.png" width="800"></a></p>
 
 
 AppSheet will automatically detect the Equipments and Inspections sheets.
