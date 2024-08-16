@@ -166,3 +166,42 @@ Good, the Inspections data is now available on the AppSheet.
 
 ## 4. User Interface
 
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-31.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-32.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-33.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-34.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-35.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-36.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-37.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-38.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-39.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-40.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-41.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-42.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-43.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-44.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-45.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-46.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-47.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-48.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-49.png" width="800"></a></p>
+
+<p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-50.png" width="800"></a></p>
