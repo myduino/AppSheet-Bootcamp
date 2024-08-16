@@ -61,3 +61,5 @@ The aims of this exercise is to build a simple mobile app for **Equipment Inspec
 - **`User Email`** (Email of the inspector)
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/prepare-google-sheet/AppSheet-05.png" width="800"></a></p>
+
+## 2. 
