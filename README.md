@@ -1,6 +1,6 @@
 # AppSheet Bootcamp
 
-The aims of this exercise is to build a simple mobile app for **Equipment Inspections** using no-code platform Google’s [AppSheet](https://appsheet.com).
+The aims of this exercise is to build a simple mobile app for **Equipment Inspections** using no-code platform Google’s [AppSheet](https://appsheet.com), for lookup and log equipment maintenance status.
 
 [![Build no-code apps with AppSheet](https://i3.ytimg.com/vi/DjAD81A9nYk/maxresdefault.jpg)](https://www.youtube.com/watch?v=DjAD81A9nYk)
 
