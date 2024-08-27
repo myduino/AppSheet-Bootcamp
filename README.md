@@ -164,9 +164,15 @@ Good, the Inspections data is now available on the AppSheet.
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/interfacing-data-google-sheet/AppSheet-29.png" width="800"></a></p>
 
+13. Click the **`SAVE`** button to save the configuration.
+
 ## 4. User Interface
 
+1. Navigate to **`Views`** menu, you can choose from the left panel.
+
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-31.png" width="800"></a></p>
+
+2. On the **`View type`** section, choose **card**.
 
 <p align="center"><img src="https://github.com/myduino/AppSheet-Equipment-Inspections/blob/main/references/user-interface/AppSheet-32.png" width="800"></a></p>
 
